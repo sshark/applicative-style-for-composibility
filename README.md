@@ -1,0 +1,1 @@
+This is my arrangement of the code mentioned in [Using Applicative Style to Increase Compositionality  - Part II](https://medium.com/earnest-engineering/using-applicative-style-to-increase-compositionality-part-ii-266472396795) to help me understand the article.
